@@ -83,7 +83,7 @@ function App() {
         <nav className="flex justify-between items-center mb-12 px-4">
           <div className="flex items-center gap-3">
             <img
-              src="/logo_mercado.png"
+              src="https://i.imgur.com/uNDQ6FW.png"
               alt="Mercado Libre Logo"
               className="h-12 w-auto"
             />
